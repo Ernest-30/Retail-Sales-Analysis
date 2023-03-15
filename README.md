@@ -2,7 +2,7 @@
 
 # Introduction
 
-The dataset contains retail orders from 11 States of 2 different countries. The purpose of the analysis is to understand the business flow, sales performance accross the States, different time of day and by delivery agents.
+The dataset contains retail orders from 11 Locations (Lagos, FCT, Ogun, Gauteng, Kano, Anambra, Abia, Oyo, Rivers, Katlehong, Soweto) in 2 different countries (Nigeria and South Africa). The purpose of the analysis is to understand the business flow, sales performance accross the States, different time of day and by delivery agents. The dataset conay=tains only data for sales in the month of july 2021.
 
 The revenue was captured in the local currency of the respective country. The business required the analysis to be done in USD. I first converted the Revenue to USD using the FX rate provided by the business.
 
@@ -134,7 +134,7 @@ Nonye Store - 5,184.59
 
 11. Analyze sales performance by location;
 
-Lagos, Nigeria is the highest performing location in terms of revenue contribution with 3,838 orders recieved, 19,007 quantities ordered and revenue of 247,780.53 USD/ While the lowest performing location is Soweto, ZA with a total of 8	orders, 11 quantites ordered and revenue of 22.98 USD.
+Lagos, Nigeria is the highest performing location in terms of revenue contribution with 3,838 orders recieved, 19,007 quantities ordered and revenue of 247,780.53 USD/ While the lowest performing location is Soweto, South Africa with a total of 8	orders, 11 quantites ordered and revenue of 22.98 USD.
 
 ![image](https://user-images.githubusercontent.com/123366282/225415612-8c300235-3ec0-4f26-b2f3-193d1f473b89.png)
 
